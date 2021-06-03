@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament Whereby the good subiects of this kingdome may better discerne their owne danger, and be stirred up with more earnestnesse to assist the Parliament in the maintenance of religion, the common iustice and liberty of the kindgome, which seemes to be in no lesse hazard, then if wee had an army of the Irish rebels in the bowels of the land. Also some observations and directions to the knights, gentlemen and other inhabitants of Yorke-shire, and other the Northerne counties. Sabbathi August 20. 1642. Ordered by the Lords and Commons in Parliament that this declaration shall bee forthwith printed and published. Io. Browne Cler. Parliament.</title>
+            <title>Proceedings. 1642-08-22</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82724</idno><idno type="EEBO-CITATION">99900001</idno>
+  <idno type="VID">132862</idno>
+  <idno type="EEBO-PROQUEST">2240851655</idno>
+  
+            <idno type="STC">Wing E1477A</idno>
+            <idno type="STC">ESTC R224907</idno>
+            <idno type="PROQUEST">99900001</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99900001e"/>
+            <note>(EEBO-TCP ; phase 2, no. A82724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132862)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2497:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament Whereby the good subiects of this kingdome may better discerne their owne danger, and be stirred up with more earnestnesse to assist the Parliament in the maintenance of religion, the common iustice and liberty of the kindgome, which seemes to be in no lesse hazard, then if wee had an army of the Irish rebels in the bowels of the land. Also some observations and directions to the knights, gentlemen and other inhabitants of Yorke-shire, and other the Northerne counties. Sabbathi August 20. 1642. Ordered by the Lords and Commons in Parliament that this declaration shall bee forthwith printed and published. Io. Browne Cler. Parliament.</title>
+                  <title>Proceedings. 1642-08-22</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>August 22, printed for Iohn Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132862:1"/>
+            <pb facs="tcp:132862:1"/>
+            <p>A DECLARATION OF THE Lords and Commons Assembled in Parliament.</p>
+            <p>Whereby the good Subiects of this Kingdome may better discerne their owne danger, and be stirred up with more earnest<g ref="char:EOLhyphen"/>nesse to assist the Parliament in the maintenance of Religion, the common Iustice and Liberty of the Kingdome, which seemes to be in no lesse hazard, then if wee had an Army of the Irish Rebels in the Bowels of the Land.</p>
+            <p>Also some observations and Directions to the Knights, Gentlemen and other Inhabitants of <hi>Yorke-shire,</hi> and other the Northerne Counties.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Sabbathi August 20. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords and Commons in Parliament that this Declaration shall bee forthwith printed and published.</p>
+                        <closer>
+                           <signed>Io. Browne Cler. Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>August</hi> 22, Printed for <hi>Iohn Wright.</hi> 1642.</p>
+            <pb facs="tcp:132862:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:132862:2"/>
+            <head>
+               <figure>
+                  <figDesc>Tudor rose surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>French fleur-de-lis surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Irish harp surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>A DECLARATION Of the Lords and Commons in PARLIAMENT.</head>
+            <head type="sub">With some Directions to the Knights, Gentlemen, and other inha<g ref="char:EOLhyphen"/>bitants of <hi>Yorkeshire,</hi> and the other Northerne Counties.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment assembled, have perused and se<g ref="char:EOLhyphen"/>riously considered a Letter sent from many of the Principall Knights, Gen<g ref="char:EOLhyphen"/>tlemen and other Inhabitants of the County of Yorke: directed to a wor<g ref="char:EOLhyphen"/>thy Knight of that County, being a Member of the
+<pb facs="tcp:132862:3"/> House of Commons, and intended for information of both Houses of Parliament, concerning his Ma<g ref="char:EOLhyphen"/>iesties purpose of raysing his Standard at Notting<g ref="char:EOLhyphen"/>ham, the present state of the Northerne parts, and the growing mischiefes and miseries like to over<g ref="char:EOLhyphen"/>whelme the whole Kingdome, by the great oppressi<g ref="char:EOLhyphen"/>ons exercised upon his Maiesties subiects there, and other unlawfull and dangerous councels and pro<g ref="char:EOLhyphen"/>ceedings of those, who under pretence of his Maie<g ref="char:EOLhyphen"/>sties Service, are laying the foundation of an Arbitra<g ref="char:EOLhyphen"/>ry and Tyrannicall Government, or rather confusion and dissolution, not only in those parts, but in the whole Kingdome: upon which and other informati<g ref="char:EOLhyphen"/>ons and discoveries, we thinke fit to publish and de<g ref="char:EOLhyphen"/>clare some few observations, whereby the good sub<g ref="char:EOLhyphen"/>iects of this Kingdome may better discerne their owne danger, and bee stirred up with more earnest<g ref="char:EOLhyphen"/>nesse, to assist us in the Maintenance of Religion, and of the common Iustice and Liberty of the King<g ref="char:EOLhyphen"/>dome, which seemes to be in no lesse hazard, then if we had an Army of the Irish Rebels in the bowels of the Land.</p>
+            <p>The first Observation is this, that now it plainely appeares to the world, that there was good ground of those Feares and Iealousies so often expressed by both Houses. That his Maiesty intended to make War against his Parliament: and that the many Oathes, Protestations and Execrations, published in his Ma<g ref="char:EOLhyphen"/>iesties Name, disclayming any such purpose of warre, were nothing but the devises of those wicked Coun<g ref="char:EOLhyphen"/>cellors about Him, that under such disguises and pre<g ref="char:EOLhyphen"/>tentions of Peace, they might more closely Arme and
+<pb facs="tcp:132862:3"/> prepare themselves for Warre, and by violence to suppresse the Parliament, and so to make way for the accomplishment of their owne designes for the alte<g ref="char:EOLhyphen"/>ration of Religion, and the Government of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The second, that this Warre is said to bee for the Defence of the Protestant Religion, and yet the most diligent Assistants and Promoters of it are Pa<g ref="char:EOLhyphen"/>pists, and that corrupt and superstitious part of the Clergy that were running towards Popery: wherein the Papists are so fervent, that they not onely send in Horse and Armes, but the better to qualifie their Per<g ref="char:EOLhyphen"/>sons for this present service, many heretofore constant Recusants doe now resort to Church, and take the oaths of supremacy and alleagiance, and with what affections they looke upon the reformed Religion, is evident in the speeches of those, who robb'd M. <hi>Mar<g ref="char:EOLhyphen"/>woods</hi> house calling his wife Protestant whore and Puritane, who being a very vertuous Gentlewoman and of good quality, onely the hatred of Religion was it which provoked them to such ignominious language, which by those popish Cavaleeres is prose<g ref="char:EOLhyphen"/>cuted under the name of Round-head, as it hath beene by the Prelaticall Clergy, under the name of Puritane.</p>
+            <p>A third that Armes are taken from the honest Gentlemen, Yeomen and Townsmen, and put into the hands of such desperate persons as cannot live, but by rapine and spoyle.</p>
+            <p>A fourth, that notwithstanding all the vowes and
+<pb facs="tcp:132862:4"/> protestations to governe by Law, which have beene dispersed through out the Kingdome to blind and deceive the people, The most mischeivous princi<g ref="char:EOLhyphen"/>palls of tyranny are practised that ever were inven<g ref="char:EOLhyphen"/>ted, that is to disarme the middle sort of people, who are the body of the Kingdome, and to maintaine Souldiers by forced contribution, to create a provin<g ref="char:EOLhyphen"/>ciall government in the <hi>North,</hi> cleerely against the common Law, and the judgement given in this Par<g ref="char:EOLhyphen"/>liament for taking away the Court at <hi>Yorke,</hi> That the contrivers and instruments of these mischiefes, for their better strengthning in these designes, are about to joyne themselves in an association with other Counties, That directions are given that such as shall oppose, or not joyne with them shall be violently plundered and pillaged.</p>
+            <p>For the prevention of these growing evills, and mischiefes the Lords and Commons doe declare.</p>
+            <p>That all well affected and good Subjects, who shall be plundred, pillaged, and suffer in their estates by any of the Cavaleers or other Forces raised with<g ref="char:EOLhyphen"/>out consent of Parliament, shall have full reparati<g ref="char:EOLhyphen"/>on of their damages out of the estates of those who have beene actors, and councellors in such violen<g ref="char:EOLhyphen"/>ces, as likewise out of the estates of all such persons in any part of the Kingdome whatsoever, who have withdrawne themselves to <hi>Yorke,</hi> and shall persist to serve the King in this war against the Parliament, by any subscription, contribution, or otherwise have given assistance and countenance to the main<g ref="char:EOLhyphen"/>tenance thereof.</p>
+            <pb facs="tcp:132862:4"/>
+            <p> That it shall be lawfull for any number of persons to joyne together, and to defend themselves and o<g ref="char:EOLhyphen"/>thers from Rapine and Force: And the Earle of Essex Lord Generall of the forces raised by the Lords Commons, for the defence of Religion and Libertie, and for protection of the oppressed Subjects of this Kingdome, and Lieutenant of the County of <hi>Yorke,</hi> is desired to grant such Commissions, for leavying, leading, and conducting, of forces in the Northerne parts, as shall be thought requsite by his Excellencie. And Sir <hi>Iohn Hotham</hi> Governour of <hi>Hull,</hi> is required to give all kinde of assistance, by the Garrison of the Towne, and by furnishing them with such powder, armes, and other Ammunition, as he can spare. And for the better inabling of them in this their necessary defence,</p>
+            <p>It is resolved that further supplies of Armes shall be sent thither as speedily as may be.</p>
+            <p>That the Sheriffe of the Countie of <hi>Yorke</hi> and the Sheriffes of the adjoyning Counties, and all Lieute<g ref="char:EOLhyphen"/>nants, Deputie Leiutenants, Majors, Justices of the Peace, and others his Majesties Officers and loving Subjects, be aiding and assisting to them in defence of his Majesties Subjects from all Oppression and Vio<g ref="char:EOLhyphen"/>lence with the power of the Counties and Trayned Bands.</p>
+            <p>That it shall be lawfull for any of his Majesties Subjects to disarme all Popish Recusants, to seize upon the Persons of all such as shall Execute the Illegall Commission of Array, or shall be actors and
+<pb facs="tcp:132862:5"/> assistants in any of the aforementioned oppressions and violences, or shall furnish any Horse Armes Mo<g ref="char:EOLhyphen"/>ney or other Aide or Contribution for the Mainte<g ref="char:EOLhyphen"/>nance of this unnaturall Warre Raised by his Ma<g ref="char:EOLhyphen"/>jestie against his Parliament: And to Seize upon their Horses Armes Money and other Provisions whereby they might be enabled to disturbe the Peace of the Kingdome.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132862:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
